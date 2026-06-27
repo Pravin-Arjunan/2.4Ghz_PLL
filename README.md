@@ -13,6 +13,9 @@
 | Vctrl Ripple (locked) | ~6 mV p-p |
 | Area | 86.5µm x 58µm |
 
+<img width="1060" height="1242" alt="Screenshot 2026-06-27 162939" src="https://github.com/user-attachments/assets/e01ad98c-44e5-42b2-82a9-714baf69e75b" />
+
+
 ### CS-VCO (Ring Oscillator)
 | Parameter | Pre-Layout | Post-Layout |
 |---|---|---|
